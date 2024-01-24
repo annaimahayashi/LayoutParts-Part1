@@ -1,1 +1,41 @@
 @charset "UTF-8";
+.main--area {
+  display: flex;
+  text-align: center;
+  margin: 50px;
+}
+.cell1 {
+  width: 300px;
+  background: #ff7b7b;
+  padding: 20px;
+}
+.cell2 {
+  flex: 1;
+  background: #7b86ff;
+  padding: 20px;
+}
+.cell3 {
+  width: 300px;
+  background: #fff27b;
+  padding: 20px;
+}
+.cell4 {
+  flex: 1;
+  background: #7bff91;
+  padding: 20px;
+}
+.cell5 {
+  width: 400px;
+  background: #ff7be2;
+  padding: 20px;
+}
+.cell6 {
+  width: 400px;
+  background: #ffc67b;
+  padding: 20px;
+}
+.cell7 {
+  flex: 1;
+  background: #7bf2ff;
+  padding: 20px;
+}
